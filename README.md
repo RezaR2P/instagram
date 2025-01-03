@@ -1,3 +1,3 @@
 # instagram
 
-testing auto pull ke lokal
+testing auto pull ke lokal ke 2
